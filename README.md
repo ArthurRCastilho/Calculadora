@@ -1,10 +1,10 @@
 # Calculador
 
-Este é um aplicativo simples de calculadora.
+Esta é uma cópia do aplicativo Calculadora do iPhone, feito em flutter
 
 ## Layout
 
-> :construction: Projeto em construção :construction:
+<img src="./assets/imgs/CalculatorIMG.png" alt="Calculator IMG" width="270px"> <img src="./assets/gifs/CalculatorGIF.gif" alt="Gif Calculator" width="270px">
 
 ### Tecnologias utilizadas
 - ``VSCode``
